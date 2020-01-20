@@ -1,0 +1,15 @@
+{
+  "name": "test-pages",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igordg777"
+  },
+  "author": "iGorG",
+  "license": "ISC"
+}
