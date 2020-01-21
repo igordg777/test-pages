@@ -1,7 +1,7 @@
 ## test-pages
 
 
-`This project was created to test your project. without affecting his functions and work, but in the directory of your project. Names of your testing pages are: index@.html, index@.js, index@.css. That's why you can very easy see and work with this files, and then also easy delete them.`
+`This project was created to test your project. without affecting it's functions and work, but in the directory of your project. Names of your testing pages are: index@.html, index@.js, index@.css. That's why you can very easy see and work with this files, and then also easy delete them.`
 
 `Проект создан для тестирования новых функций, которые Вы бы хотели добавить к Вашему проекту,  но при этом не влияя на его текущие функции и работу. Тестовые страницы создаются в директории Вашего проекта. Названия тестовых страниц с испольованием '@' (index@.html, index@ .js, index@.css.) позволяют хорошо видеть эти файлы в директории и работать с ними, а затем также легко их удалять.`
 
